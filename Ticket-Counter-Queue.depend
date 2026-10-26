@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793034313 source:c:\users\user\downloads\ticket-counter-queue\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<queue>
+
